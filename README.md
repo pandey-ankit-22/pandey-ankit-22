@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Pandey, Chemical Engineering Sophomore at National Institute of Technology, Durgapur pursuing Specialisation in Chemical Engineering.
+- 👋 Hi, I’m Ankit Pandey, Chemical Engineering Sophomore at National Institute of Technology, Durgapur.
 - 👀 I’m interested in Machine Learning, Deep Learning and Open Source Innovations.
 - 🌱 I’m currently learning Web Development exploring Front-end Framework React.js.
 - 💞️ I’m looking to collaborate on Open Source Innovations related to Machine Learning, Deep Learning and Web Development.
